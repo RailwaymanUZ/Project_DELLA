@@ -20,8 +20,6 @@ bot = telebot.TeleBot(API_TOKEN)
 
 
 
-LOGIN_USER = 'mohylovtrans@gmail.com'
-PASSWORD_USER = 'Loveyou1515791'
 
 options = webdriver.ChromeOptions()
 options.add_argument('--disable-blink-features=AutomationControlled') # отключаем режим вэбдрайвера
